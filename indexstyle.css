@@ -1,0 +1,174 @@
+html {
+    text-align: center;
+    font-family: 'Century Gothic';
+}
+
+p img {
+    max-width: 550px;
+}
+
+body {
+    background-image: url("img/indexbackground.jpg");
+    background-position: center, top;
+    background-size: 110%;
+}
+
+.button {
+    text-decoration: none;
+    padding: 100px;
+    font-size: 40px;
+    text-shadow: 2px 2px 0px black;
+    border-radius: 10vw;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-around, center;
+    display: flex;
+    width: 10vw;
+    margin: 30px;
+}
+
+#truc1 {
+    background-image: url("img/doctor9.jpg");
+}
+
+#truc2 {
+    background-image: url("img/doctor10.jpg");
+}
+
+#truc3 {
+    background-image: url("img/doctor11.jpg");
+}
+
+#truc4 {
+    background-image: url("img/doctor12.jpg");
+}
+
+#truc5 {
+    background-image: url("img/doctor13.jpg");
+}
+
+#chose1 {
+    background-image: url("img/doctor14.jpg");
+}
+
+#chose2 {
+    background-image: url("img/doctor15.jpg");
+}
+
+#nuwho1 {
+    background-image: url("img/nuwho1.jpg");
+}
+
+#nuwho2 {
+    background-image: url("img/nuwho2.jpg");
+}
+
+#nuwho3 {
+    background-image: url("img/nuwho3.jpg");
+}
+
+#nuwho4 {
+    background-image: url("img/nuwho4.jpg");
+}
+
+#nuwhoSP1 {
+    background-image: url("img/nuwhoSP1.jpg");
+}
+
+#nuwho5 {
+    background-image: url("img/nuwho5.jpg");
+}
+
+#nuwho6 {
+    background-image: url("img/nuwho6.jpg");
+}
+
+#nuwho7 {
+    background-image: url("img/nuwho7.jpg");
+}
+
+#nuwhoSP2 {
+    background-image: url("img/nuwhoSP2.jpg");
+}
+
+#nuwho8 {
+    background-image: url("img/nuwho8.jpg");
+}
+
+#nuwho9 {
+    background-image: url("img/nuwho9.jpg");
+}
+
+#nuwho10 {
+    background-image: url("img/nuwho10.jpg");
+}
+
+#nuwho11 {
+    background-image: url("img/nuwho11.jpg");
+}
+
+#nuwho12 {
+    background-image: url("img/nuwho12.jpg");
+}
+
+#nuwho13 {
+    background-image: url("img/nuwho13.jpg");
+}
+
+#nuwhoSP4 {
+    background-image: url("img/nuwhoSP4.jpg");
+}
+
+#modernwhoSP1 {
+    background-image: url("img/modernwhoSP1.jpg");
+}
+
+#modernwho1 {
+    background-image: url("img/modernwho1.jpg");
+}
+
+#modernwho2 {
+    background-image: url("img/modernwho2.jpg");
+}
+
+#dlc1 {
+    background-image: url("img/dlc1.jpg");
+}
+
+#dlc2 {
+    background-image: url("img/dlc2.jpg");
+}
+
+#dlc3 {
+    background-image: url("img/dlc3.jpg");
+}
+
+#dlc4 {
+    background-image: url("img/dlc4.jpg");
+}
+
+#dlc5 {
+    background-image: url("img/dlc5.jpg");
+}
+
+#dlc6 {
+    background-image: url("img/dlc6.jpg");
+}
+
+#dlc7 {
+    background-image: url("img/dlc7.jpg");
+}
+
+#dlc8 {
+    background-image: url("img/modernwho2.jpg");
+}
+
+a {
+    color: blue;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    margin: 0%;
+}
